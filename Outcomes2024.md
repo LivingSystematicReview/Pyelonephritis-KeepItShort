@@ -1,4 +1,4 @@
- **Outcomes table**      
+ *Outcomes table*      
 
 
 | **Outcome Measure **                                  | **N of trials** | **N of patients** | **RR \[95% CI\]**      | **I2** |
