@@ -1,5 +1,10 @@
 # Short versus long antibiotic treatment for pyelonephritis and complicated UTIs: a living systematic review and meta-analysis of RCTs 
 
+![Alt text for the image](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/Data/PLfunny.jpg)
+
+
+
+
 ## Latest Update
 - **Last Search Date**: December 2024
 - **Ongoing trials**: [Trial List](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/Data/Ongoing_trials_registry2024.md)
