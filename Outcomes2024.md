@@ -13,5 +13,7 @@
 | Any adverse event                                                                                                                                                                | 9               | 2,502             | 0\.99 \[0\.88\-1\.12\] | 33%    |
 | Adverse events requiring discontinuation                                                                                                                                         | 6               | 905               | 0\.48 \[0\.19\-1\.21\] | 0%     |
 | Diaarhea                                                                                                                                                                         | 8               | 1,427             | 0\.71 \[0\.48\-1\.04\] | 0%     |
+
+
 Abbreviations \- RR: Risk ratio; CI: Confidence interval; N: Number\. RR >1 favor short for success and cure; <br>RR<1 and favor short for relapse, re\-infection, and death<br> 
                                                        
