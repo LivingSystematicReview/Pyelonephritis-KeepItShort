@@ -1,6 +1,6 @@
-### Certainty assessment
+### Certainty Assessment
 
-| № of studies | Study design      | Risk of bias | Inconsistency | Indirectness | Imprecision | Other considerations | Short         | Long          | Relative (95% CI)  | Absolute (95% CI)          | Certainty |   
+| № of studies | Study design      | Risk of bias | Inconsistency | Indirectness | Imprecision | Other considerations | Short         | Long          | Relative (95% CI)  | Absolute (95% CI)  | Certainty |   
 |--------------|-------------------|--------------|---------------|--------------|-------------|----------------------|---------------|---------------|--------------------|----------------------------|-------------|------------|
 | 14           | randomised trials | not serious  | serious       | not serious  | not serious | none                 | 1090/1293 (84.3%) | 1094/1297 (84.3%) | RR 1.01 (0.97 to 1.04) | 8 more per 1,000 (from 25 fewer to 34 more) | ⨁⨁⨁◯ Moderate |            |
 | 11           | randomised trials | not serious  | very serious  | very serious | not serious | none                 | 707/861 (82.1%) | 725/858 (84.5%) | RR 0.98 (0.94 to 1.02) | 17 fewer per 1,000 (from 51 fewer to 17 more) | ⨁◯◯◯ Very low |             |
