@@ -3,7 +3,7 @@ The last ten years have brought many changes and debates to the infectious disea
 
 Current evidence on the treatment of pyelonephritis and complicated urinary tract infection (cUTI) among adults points to the efficacy and safety of treatment regimens of 5-7 days. Nevertheless, there are notable gaps in the evidence concerning specific patient groups. Notably, the optimal treatment duration is unclear for men, for antibiotics other than quinolones, and for severe sepsis and bacteremia, which limits the ability to make fully informed recommendations for these populations.
 
-Since the last published systematic reviews, new randomized controlled trials have been conducted, some of which include the previously mentioned underrepresented populations. In this systematic review, we aim to update the evidence on short antibiotic treatment regimens for pyelonephritis and cUTI among adults and to analyze data from sub-groups of interest. As this is a topic of ongoing and accumulating evidence, we plan this to be a living systematic review.
+Since the last published systematic reviews, new randomized controlled trials have been conducted, some of which include the previously mentioned underrepresented populations. In this systematic review, we aim to update the evidence on short antibiotic treatment regimens for pyelonephritis and cUTI among adults and to analyze data from sub-groups of interest. As this is a topic of ongoing and accumulating evidence, we plan this to be a living systematic review. A living systematic review can help clinicians and researchers update on this topic yearly, without waiting for additional reviews to reinforce their decision to adopt the “shorter is better” approach.
 
 ## Publication DOI:
 ROOM FOR PUBLICATION DOI
