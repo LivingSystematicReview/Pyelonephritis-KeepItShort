@@ -20,9 +20,6 @@ PubMed, Cochrane Central Register of Controlled Trials, Web of Science, Clinical
 ## Results 
 - [ROB](rob.png)
 - [View Outcomes 2024 Results](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Outcomes2024.md)
-- [Clinical Success](XXX.png)
-- [Clinical Success](XXX.png)
-- [Clinical Success](XXX.png)
 - [summary of findings](GRADE.png)
 
 
