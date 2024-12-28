@@ -3,7 +3,6 @@
 ## Latest Update
 - **Last Search Date**: December 2024
 - **Ongoing trials**: [Trial List](data/new_trials_2024.csv)
-- **New trials added 2025**
   
 ## Introduction
 The last ten years have brought many changes and debates to the infectious disease community, and past long-standing clinical paradigms have been questioned. One such debatable paradigm is the duration of antibiotic treatment for bacterial infections. For many years, the standard approach was to prescribe more prolonged courses of antibiotics, typically quinolones for 7 to 14 days or more, to achieve a cure and prevent relapse or the development of antimicrobial resistance. However, accumulating evidence began to shift this paradigm, and many new clinical trials and systematic reviews showed that shorter treatment regimens could be just as effective, paving the way for a new era of “Shorter is better”.
