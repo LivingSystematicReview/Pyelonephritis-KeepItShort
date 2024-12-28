@@ -3,7 +3,8 @@
 ## Latest Update
 - **Last Search Date**: December 2024
 - **New Trials Added**: [Trial List](data/new_trials_2024.csv)
-
+- 
+## Introduction
 The last ten years have brought many changes and debates to the infectious disease community, and past long-standing clinical paradigms have been questioned. One such debatable paradigm is the duration of antibiotic treatment for bacterial infections. For many years, the standard approach was to prescribe more prolonged courses of antibiotics, typically quinolones for 7 to 14 days or more, to achieve a cure and prevent relapse or the development of antimicrobial resistance. However, accumulating evidence began to shift this paradigm, and many new clinical trials and systematic reviews showed that shorter treatment regimens could be just as effective, paving the way for a new era of “Shorter is better”.
 
 Current evidence on the treatment of pyelonephritis and complicated urinary tract infection (cUTI) among adults points to the efficacy and safety of treatment regimens of 5-7 days. Nevertheless, there are notable gaps in the evidence concerning specific patient groups. Notably, the optimal treatment duration is unclear for men, for antibiotics other than quinolones, and for severe sepsis and bacteremia, which limits the ability to make fully informed recommendations for these populations.
