@@ -10,7 +10,7 @@
 
 **CI:** confidence interval; **RR:** risk ratio 
 
-**Explanations**
+**Explanations**<br>
 a. Most trials are at unclear risk of bias. However, the potential risk of bias is unlikely to lower confidence in the effect estimate.<br>
 b. Inconsistency between clinically distinct populations included in the analysis—such as differing clinical definitions of urinary tract infection (UTI), variations in care settings (hospitalization versus community care), and the administration of different antibiotic treatments.<br>
 c. High statistical heterogeneity and\or variations in the timing of outcome measurements.<br>
