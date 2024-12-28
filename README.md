@@ -18,7 +18,7 @@ PubMed, Cochrane Central Register of Controlled Trials, Web of Science, Clinical
 
 
 ## Results 
-- [Risk Of Bias 2024](rob.png)
+- [Risk of Bias 2024](rob.png)
 - [Outcomes 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Outcomes2024.md)
 - [summary of findings](GRADE.png)
 
