@@ -15,5 +15,5 @@
 | Diaarhea                                                                                                                                                                         | 8               | 1,427             | 0\.71 \[0\.48\-1\.04\] | 0%     |
 
 
-Abbreviations \- RR: Risk ratio; CI: Confidence interval; N: Number\. RR >1 favor short for success and cure; RR<1 favor short for relapse, re\-infection, and death<br> 
+Abbreviations \- RR: Risk ratio; CI: Confidence interval; N: Number\. <br> RR >1 favor short for success and cure; RR<1 favor short for relapse, re\-infection, and death<br> 
                                                        
