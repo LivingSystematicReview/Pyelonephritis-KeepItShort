@@ -23,7 +23,7 @@ PubMed, Cochrane Central Register of Controlled Trials, Web of Science, Clinical
 - [Risk of Bias 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Risk_of_bias24.png) 
 - [Outcomes 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Outcomes2024.md)
 - [Clinical Success Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Cinical_success2024.png) 
-- [Death forest plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Mortality2024.png) 
+- [Death Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Mortality2024.png) 
 - [Certainty Assessment 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/GradeCertaintyAssessment2024.md)
 
 
