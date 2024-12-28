@@ -34,5 +34,7 @@ PubMed, Cochrane Central Register of Controlled Trials, Web of Science, Clinical
 - [PRISMA Flow Diagram](results/prisma_flowchart.png)
 - 
 
-## Contact
+## Corresponding author 
 [Itay Zahavi](mailto:itai1994@gmail.com)
+
+
