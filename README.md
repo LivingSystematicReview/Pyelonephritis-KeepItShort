@@ -22,14 +22,17 @@ PubMed, Cochrane Central Register of Controlled Trials, Web of Science, Clinical
 ## Results 
 - [Risk of Bias 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Risk_of_bias24.png) 
 - [Outcomes 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Outcomes2024.md)
-- [Forest plots 2024] TO BE CONTINUED 
+- [Clinical Success Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Forest plot clinical success.png) 
+- [Death forest plot 2024]
 - [Certainty Assessment 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/GradeCertaintyAssessment2024.md)
 
 
-## Access Data
+## Supplementary Data
 - [Study Characteristics Table](data/study_characteristics.csv)
 - [PRISMA Flow Diagram](results/prisma_flowchart.png)
-- 
+- [Clinical Success Males Forest Plot 2024]
+- [Adverse Events Diarrhea Forest Plot 2024]
+
 
 ## Corresponding author 
 [Itay Zahavi](mailto:itai1994@gmail.com)
