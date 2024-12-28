@@ -22,16 +22,17 @@ PubMed, Cochrane Central Register of Controlled Trials, Web of Science, Clinical
 ## Results 
 - [Risk of Bias 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Risk_of_bias24.png) 
 - [Outcomes 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Outcomes2024.md)
-- [Clinical Success Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Forest plot clinical success.png) 
-- [Death forest plot 2024]
+- [Clinical Success Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Cinical_success2024.png) 
+- [Death forest plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Mortality2024.png) 
 - [Certainty Assessment 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/GradeCertaintyAssessment2024.md)
 
 
 ## Supplementary Data
-- [Study Characteristics Table](data/study_characteristics.csv)
-- [PRISMA Flow Diagram](results/prisma_flowchart.png)
-- [Clinical Success Males Forest Plot 2024]
-- [Adverse Events Diarrhea Forest Plot 2024]
+- [Study Characteristics Table]TBC
+- [PRISMA Flow Diagram 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/PRISMA2024.png)
+- [Clinical Success Males Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Clinical_success_males2024.png)
+- [Clinical Success Bacteremia Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Bacteremia2024.png)
+- [Adverse Events Diarrhea Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Diarrhea22024.png)
 
 
 ## Corresponding author 
