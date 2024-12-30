@@ -32,8 +32,7 @@ PubMed, Cochrane Central Register of Controlled Trials, Web of Science, Clinical
 - [Outcomes 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Outcomes2024.md)
 - [Clinical Success Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Cinical_success2024.png) 
 - [Death Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Mortality2024.png) 
-- [Certainty Assessment 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/GradeCertaintyAssessment2024.md)
-
+- [Certainty Assessment 2024](https://gdt.gradepro.org/presentations/#/p_l_a_ce434133-8051-5d54-8b9a-18ebaf9fed63_9889d7e3-beb6-47ad-b446-29092410e129_e3bef251-77d5-4ac4-9e6a-665c73fccbbb) 
 
 ## Supplementary Data
 - [Study Characteristics Table]TBC
