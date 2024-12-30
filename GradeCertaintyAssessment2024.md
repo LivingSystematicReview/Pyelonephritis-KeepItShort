@@ -1,6 +1,7 @@
 ### Certainty assessment
 
-<iframe src="https://gdt.gradepro.org/presentations/#/p_l_a_ce434133-8051-5d54-8b9a-18ebaf9fed63_9889d7e3-beb6-47ad-b446-29092410e129_e3bef251-77d5-4ac4-9e6a-665c73fccbbb" frameborder="0" width="100%" height="100%" allowfullscreen> </iframe> 
+<iframe src="https://gdt.gradepro.org/presentations/#/p_l_a_ce434133-8051-5d54-8b9a-18ebaf9fed63_9889d7e3-beb6-47ad-b446-29092410e129_e3bef251-77d5-4ac4-9e6a-665c73fccbbb" frameborder="0" width="100%" height="100%" allowfullscreen> </iframe>
+
 
 
 | Label                    | № of studies | Study design      | Risk of bias | Inconsistency | Indirectness | Imprecision | Other considerations | № of patients Short Tx            | № of patients Long Tx             | Relative effect(95% CI)    | Absolute effect (95% CI)          | Certainty    |
