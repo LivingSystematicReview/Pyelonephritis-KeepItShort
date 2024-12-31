@@ -37,14 +37,14 @@ d. Summary of findings tables.
 
 
 ## Results 
-- [Risk of Bias 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Risk_of_bias24.png) 
-- [Outcomes 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Outcomes2024.md)
-- [Clinical Success Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Cinical_success2024.png)
-- [Clinical Success Males Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Clinical_success_males2024.png)
-- [Clinical Success Females Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Clinical_success_males2024.png)
-- [Clinical Success Bacteremia Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Bacteremia2024.png)
+- [Risk of Bias 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Risk_of_bias24.png) 
+- [Outcomes 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLongblob/results/Outcomes2024.md)
+- [Clinical Success Forest Plot 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Cinical_success2024.png)
+- [Clinical Success Males Forest Plot 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Clinical_success_males2024.png)
+- [Clinical Success Females Forest Plot 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/)
+- [Clinical Success Bacteremia Forest Plot 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Bacteremia2024.png)
 - [Microbiological Success Forest Plot 2024]
-- [Death Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Mortality2024.png) 
+- [Death Forest Plot 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Mortality2024.png) 
 - [Certainty Assessment 2024](https://gdt.gradepro.org/presentations/#/p_l_a_ce434133-8051-5d54-8b9a-18ebaf9fed63_9889d7e3-beb6-47ad-b446-29092410e129_e3bef251-77d5-4ac4-9e6a-665c73fccbbb) 
 
 ## Supplementary Results 
