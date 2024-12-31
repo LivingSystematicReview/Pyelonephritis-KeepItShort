@@ -12,6 +12,12 @@
 ## Latest Update
 - **Last Search Dates**:
 
+| Database              | Search Date  | Number of Hits |
+|-----------------------|--------------|----------------|
+| PubMed               | 2025-01-01   | 2              |
+| The Cochrane Library | 2025-01-01   | 1              |
+| Web of Science       | 2025-01-01   | 0              |
+
 
 - **Last Meta-analysis**: November 2024
 
@@ -48,7 +54,7 @@ d. Summary of findings tables.
 - [Death Forest Plot 2024 - RR<1 favors short treatment](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Mortality2024.png)
 - [Adverse Events Forest Plot 2024 - RR<1 favors short treatment](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/AE2024.png)
 - [Adverse Events Diarrhea Forest Plot 2024 - RR<1 favors short treatment](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Diarrhea22024.png)
-- [Summary of Findings2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/SummaryofFindings2024.md) 
+- [Summary of Findings 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/SummaryofFindings2024.md) 
 
 ## Supplementary Results 
 - [Study Characteristics Table]TBC
