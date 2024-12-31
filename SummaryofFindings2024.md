@@ -10,7 +10,7 @@
 
 
 
-**CI:** confidence interval; **RR:** risk ratio; **Tx:** treatment
+**CI:** confidence interval; **RR:** risk ratio
 
 **Explanations**<br>
 a. Most trials are at unclear risk of bias. However, the potential risk of bias is unlikely to lower confidence in the effect estimate.<br>
