@@ -5,11 +5,8 @@
 
 
 רשימת דברים שצריך לפתור:
-שינוי שם בכתובת ובכותרת
 טבלת תאריכי חיפוש לפי דאטהבייס - להכניס תחת שיטות
-קיצור המילים של החלק של השיטות, ולהכניס מידע על תהליך אוטומציה
 טבלת תוצאות חיפוש כן/לא
-קיצור טבלת GRADE לפי Summary of findings table
 להוסיף עוד גרפים מהמאמר - cure מיקרוביולוגי, AE כללי ועוד  
 
 
@@ -24,7 +21,16 @@ ROOM FOR PUBLICATION DOI
 
 
 ## Living Systematic Review Methods 
-PubMed, Cochrane Central Register of Controlled Trials, Web of Science, Clinicaltrials.gov, European Medicines Agency (EMA) trial registry, and the European Society of Clinical Microbiology and Infectious Diseases (ESCMID) are configured to send automated monthly search updates according to the defined search strings (under data folder). Potentially eligible trials are transferred to Rayyan monthly by one author by rotation (IZ, DK). Searches in trial registries and conference proceedings are performed once yearly (MP). Once yearly, in December, eligible trials are selected from all searches by two authors (IZ, DK) and added to the systematic review. We extract the data and update the table of included studies, the risk of bias assessment, meta-analyses, and summary of findings tables, as necessary once yearly. The updated results will be available on this site with the last search date. When updates are no longer possible (personnel time availability), an end date will appear on the website.
+1. Monthly Automated Searches: Databases including PubMed, Cochrane Central Register of Controlled Trials, Web of Science, are set up to perform automated monthly updates using predefined search strings.
+2. Annual Manual Searches: Searches in trial registries and relevant conference proceedings are conducted manually once a year.
+3. Screening Process: Each month, trials identified in the automated updates are imported into the Rayyan platform for further screening.
+4. Annual Updates: In December, all eligible trials from the year’s searches are selected and incorporated into the systematic review by two independent reviewers. Data from newly included trials is extracted, and the following components of the systematic review are updated as necessary:
+- Table of included studies.
+- Risk of bias assessment.
+- Meta-analyses.
+- Summary of findings tables.
+5. Publication of Updated Results: The updated results will be published on this platform, along with the updated date of analysis. If updates become unsustainable due to resource constraints, an end date will be noted on the platform.
+6. Future Automation Plans: Plans are underway to develop and implement a code that will automate weekly updates of search results, enhancing the efficiency and timeliness of the review process.
 
 
 ## Results 
