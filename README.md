@@ -7,8 +7,6 @@
 רשימת דברים שצריך לפתור:
 טבלת תאריכי חיפוש לפי דאטהבייס - להכניס תחת שיטות
 טבלת תוצאות חיפוש כן/לא
-להוסיף עוד גרפים מהמאמר - cure מיקרוביולוגי, AE כללי ועוד  
-
 
 
 ## Latest Update
@@ -54,11 +52,11 @@ d. Summary of findings tables.
 
 ## Supplementary Results 
 - [Study Characteristics Table]TBC
-- [PRISMA Flow Diagram 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/PRISMA2024.png)
+- [PRISMA Flow Diagram 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/PRISMA2024.png)
 
 ## Search files  
-- [Ongoing Trials List](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/Data/Ongoing_trials_registry2024.md)
-- [Search Terms](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/Data/Ongoing_trials_registry2024.md)
+- [Ongoing Trials List](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/Data/Ongoing_trials_registry2024.md)
+- [Search Terms](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/Data/Searchterms.md)
 
 
 ## Corresponding author 
