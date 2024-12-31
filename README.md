@@ -12,8 +12,11 @@
 
 
 ## Latest Update
-- **Last Search Date**: December 2024
-- **Ongoing trials**: [Trial List](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/Data/Ongoing_trials_registry2024.md)
+- **Last Search Dates**:
+
+
+- **Last Meta-analysis**: November 2024
+
   
 
 ## Publication DOI:
@@ -36,16 +39,19 @@ d. Summary of findings tables.
 ## Results 
 - [Risk of Bias 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Risk_of_bias24.png) 
 - [Outcomes 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Outcomes2024.md)
-- [Clinical Success Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Cinical_success2024.png) 
+- [Clinical Success Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Cinical_success2024.png)
+- [Clinical Success Males Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Clinical_success_males2024.png)
+- [Clinical Success Females Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Clinical_success_males2024.png)
+- [Clinical Success Bacteremia Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Bacteremia2024.png)
+- [Microbiological Success Forest Plot 2024]
 - [Death Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Mortality2024.png) 
 - [Certainty Assessment 2024](https://gdt.gradepro.org/presentations/#/p_l_a_ce434133-8051-5d54-8b9a-18ebaf9fed63_9889d7e3-beb6-47ad-b446-29092410e129_e3bef251-77d5-4ac4-9e6a-665c73fccbbb) 
 
-## Supplementary Data
+## Supplementary Results 
 - [Study Characteristics Table]TBC
 - [PRISMA Flow Diagram 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/PRISMA2024.png)
-- [Clinical Success Males Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Clinical_success_males2024.png)
-- [Clinical Success Bacteremia Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Bacteremia2024.png)
 - [Adverse Events Diarrhea Forest Plot 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Diarrhea22024.png)
+- [Ongoing Trials List](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/Data/Ongoing_trials_registry2024.md)
 
 
 ## Corresponding author 
