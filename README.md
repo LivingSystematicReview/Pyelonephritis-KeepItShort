@@ -65,7 +65,6 @@ d. Summary of findings tables.
 - [Search Terms](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/Data/Searchterms.md)
 
 ## Archive
--[2024]
 
 ## Corresponding author 
 [Itay Zahavi](mailto:itai1994@gmail.com)
