@@ -50,13 +50,15 @@ d. Summary of findings tables.
 - [Death Forest Plot 2024 - RR<1 favors short treatment](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Mortality2024.png)
 - [Adverse Events Forest Plot 2024 - RR<1 favors short treatment](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/AE2024.png)
 - [Adverse Events Diarrhea Forest Plot 2024 - RR<1 favors short treatment](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/Diarrhea22024.png)
-
-- [Certainty Assessment 2024](https://gdt.gradepro.org/presentations/#/p_l_a_ce434133-8051-5d54-8b9a-18ebaf9fed63_9889d7e3-beb6-47ad-b446-29092410e129_e3bef251-77d5-4ac4-9e6a-665c73fccbbb) 
+- [Summary of Findings2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/SummaryofFindings2024.md) 
 
 ## Supplementary Results 
 - [Study Characteristics Table]TBC
 - [PRISMA Flow Diagram 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/PRISMA2024.png)
+
+## Search files  
 - [Ongoing Trials List](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/Data/Ongoing_trials_registry2024.md)
+- [Search Terms](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/Data/Ongoing_trials_registry2024.md)
 
 
 ## Corresponding author 
