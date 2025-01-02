@@ -9,7 +9,7 @@
 
 | Database              | Search Date  | Number of Hits |
 |-----------------------|--------------|----------------|
-| PubMed               | 2025-01-01   | 2              |
+| PubMed               | 2025-01-01   | 8              |
 | The Cochrane Library | 2025-01-01   | 2              |
 | Web of Science       | 2025-01-01   | 0              |
 
