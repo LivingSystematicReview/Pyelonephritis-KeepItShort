@@ -48,7 +48,7 @@ d. Summary of findings tables.
 - [Summary of Findings 2024](https://github.com/ItayZahavi/living-SR-UTI-Tx-duration/blob/results/SummaryofFindings2024.md) 
 
 ## Supplementary Results 
-- [Study Characteristics Table](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/StudyandpatientcharacteristicsGit2024.csv)
+- [Study Characteristics Table](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/StudyandpatientcharacteristicsGit2024.md)
 - [PRISMA Flow Diagram 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/PRISMA2024.png)
 
 ## Search files  
