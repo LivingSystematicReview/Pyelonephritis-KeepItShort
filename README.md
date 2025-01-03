@@ -27,8 +27,8 @@ a. Table of included studies. <br>
 b. Risk of bias assessment. <br> 
 c. Meta-analyses. <br> 
 d. Summary of findings tables. <br> 
-- **Publication of Updated Results:** The updated results will be published on this platform, along with the updated date of analysis. If updates become unsustainable due to resource constraints, an end date will be noted on the platform.
-- **Future Automation Plans:** Plans are underway to develop and implement a code that will automate weekly updates of search results, enhancing the efficiency and timeliness of the review process.
+- **Publication of Updated Results:** The updated results will be published on this platform, along with the updated date of analysis. If updates become unsustainable due to resource constraints, an end date will be noted.
+- **Future Automation Plans:** We plan to develop and implement a code that will automate weekly updates of search results, enhancing the efficiency and timeliness of the review process.
 
 
 ## Results 
