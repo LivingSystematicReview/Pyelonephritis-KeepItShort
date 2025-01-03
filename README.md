@@ -19,10 +19,10 @@
 ## Publication DOI:
 
 ## Living Systematic Review Methods 
-1. Monthly Automated Searches: Databases including PubMed, Cochrane Central Register of Controlled Trials, Web of Science, are set up to perform automated monthly updates using predefined search strings.
-2. Annual Manual Searches: Searches in trial registries and relevant conference proceedings are conducted manually once a year.
-3. Screening Process: Each month, trials identified in the automated updates are imported into the Rayyan platform for further screening.
-4. Annual Updates: In December, all eligible trials from the year’s searches are selected and incorporated into the systematic review by two independent reviewers. Data from newly included trials is extracted, and the following components of the systematic review are updated as necessary:
+- Monthly Automated Searches: Databases including PubMed, Cochrane Central Register of Controlled Trials, Web of Science, are set up to perform automated monthly updates using predefined search strings.
+- Annual Manual Searches: Searches in trial registries and relevant conference proceedings are conducted manually once a year.
+- Screening Process: Each month, trials identified in the automated updates are imported into the Rayyan platform for further screening.
+- Annual Updates: In December, all eligible trials from the year’s searches are selected and incorporated into the systematic review by two independent reviewers. Data from newly included trials is extracted, and the following components of the systematic review are updated as necessary:
 a. Table of included studies.
 b. Risk of bias assessment.
 c. Meta-analyses.
