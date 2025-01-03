@@ -53,7 +53,6 @@ d. Summary of findings tables.
 
 ## Search files  
 - [Ongoing Trials List](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/Data/Ongoing_trials_registry2024.md)
-- [Annual Search Record 2025]
 - [Search Terms](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/Data/Searchterms.md)
 
 ## Archive
