@@ -23,12 +23,12 @@
 - Annual Manual Searches: Searches in trial registries and relevant conference proceedings are conducted manually once a year.
 - Screening Process: Each month, trials identified in the automated updates are imported into the Rayyan platform for further screening.
 - Annual Updates: In December, all eligible trials from the year’s searches are selected and incorporated into the systematic review by two independent reviewers. Data from newly included trials is extracted, and the following components of the systematic review are updated as necessary:
-a. Table of included studies.
-b. Risk of bias assessment.
-c. Meta-analyses.
-d. Summary of findings tables.
-5. Publication of Updated Results: The updated results will be published on this platform, along with the updated date of analysis. If updates become unsustainable due to resource constraints, an end date will be noted on the platform.
-6. Future Automation Plans: Plans are underway to develop and implement a code that will automate weekly updates of search results, enhancing the efficiency and timeliness of the review process.
+a. Table of included studies. <br> 
+b. Risk of bias assessment. <br> 
+c. Meta-analyses. <br> 
+d. Summary of findings tables. <br> 
+- Publication of Updated Results: The updated results will be published on this platform, along with the updated date of analysis. If updates become unsustainable due to resource constraints, an end date will be noted on the platform.
+- Future Automation Plans: Plans are underway to develop and implement a code that will automate weekly updates of search results, enhancing the efficiency and timeliness of the review process.
 
 
 ## Results 
