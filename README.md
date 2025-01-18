@@ -59,7 +59,7 @@ d. Summary of findings tables. <br>
 ## Archive
 
 ## Corresponding authors
-[Mical Paul] (mailto:paulm@technion.ac.il)
-[Itay Zahavi](mailto:itai1994@gmail.com)
+[Mical Paul](mailto:paulm@technion.ac.il)
+[Itay Zahavi](mailto:itay.zahavi.research@gmail.com)
 
 
