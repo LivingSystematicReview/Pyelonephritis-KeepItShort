@@ -60,6 +60,6 @@ d. Summary of findings tables. <br>
 
 ## Corresponding authors
 [Mical Paul M.D.](mailto:paulm@technion.ac.il) |
-[Itay Zahavi M.D](mailto:itay.zahavi.research@gmail.com)
+[Itay Zahavi M.D.](mailto:itay.zahavi.research@gmail.com)
 
 
