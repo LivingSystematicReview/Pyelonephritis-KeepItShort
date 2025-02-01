@@ -8,11 +8,11 @@
 ## Latest Update
 - **Last Search Dates**:
 
-| Database              | Search Date  | Number of Hits |
-|-----------------------|--------------|----------------|
-| PubMed               | 2025-01-01   | 8              |
-| The Cochrane Library | 2025-01-01   | 2              |
-| Web of Science       | 2025-01-01   | 0              |
+| Database              | Search Date  | Number of Hits 02/2025 | Toal Number of Hits Since Last Meta-analysis|
+|-----------------------|--------------|----------------|----------------|
+| PubMed               | 01-02-2025   | 0              | 8             |
+| The Cochrane Library | 01-02-2025   | 0              | 2             |
+| Web of Science       | 01-02-2025   | 0              | 0             |
 
 
 - **Last Meta-analysis**: November 2024
