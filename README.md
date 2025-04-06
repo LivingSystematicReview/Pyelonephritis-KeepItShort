@@ -37,7 +37,7 @@ d. Summary of findings tables. <br>
 ## Results 
 - [Risk of Bias 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Risk_of_bias24.png) 
 - [Outcomes 2024](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Outcomes2024.md)
-- [Clinical Success Forest Plot 2024 - RR>1 favors short treatment](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Clinicalcureduration2024.svg)
+- [Clinical Success Forest Plot 2024 - RR>1 favors short treatment](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Clinicalcureduration2024.png)
 - [Clinical Success Males Forest Plot 2024 - RR>1 favors short treatment](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Clinicalcuredurationmen2024.svg)
 - [Clinical Success Females Forest Plot 2024 - RR>1 favors short treatment](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/Clinicalcuredurationfemale2024.svg)
 - [Clinical Success Bacteremia Forest Plot 2024 - RR>1 favors short treatment](https://github.com/ItayZahavi/UTI.ShortEqualsLong/blob/results/ClinicalcuredurationBAC2024.svg)
