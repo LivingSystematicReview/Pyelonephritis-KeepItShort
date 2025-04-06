@@ -6,6 +6,7 @@
 
 
 ## Latest Update
+- The Search is $${\color{green}ongoing}$$ 
 - **Last Search Dates**:
 
 | Database              | Search Date  | Number of Hits 03/2025 | Toal Number of Hits Since Last Meta-analysis|
@@ -14,12 +15,13 @@
 | The Cochrane Library | 01-04-2025   | 2              | 7             |
 | Web of Science       | 01-04-2025   | 0              | 0             |
 
-
+- **Next search date**: 01-05-2024
 - **Last Meta-analysis**: November 2024
 
 ## Publication DOI:
 
 ## Living Systematic Review Methods 
+- We follow the **PRISMA recommendations** for living systematic review planning and reporting (https://www.bmj.com/content/387/bmj-2024-079183)
 - **Monthly Automated Searches:** Databases including PubMed, Cochrane Central Register of Controlled Trials, Web of Science, are set up to perform automated monthly updates using predefined search strings.
 - **Annual Manual Searches:** Searches in trial registries and relevant conference proceedings are conducted manually once a year.
 - **Screening Process:** Each month, trials identified in the automated updates are imported into the Rayyan platform for further screening.
