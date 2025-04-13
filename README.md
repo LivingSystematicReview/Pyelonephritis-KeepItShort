@@ -19,6 +19,7 @@
 - **Last Meta-analysis**: November 2024
 
 ## Publication DOI:
+10.1016/j.cmi.2025.04.008 
 
 ## Living Systematic Review Methods 
 - We follow the **PRISMA recommendations** for living systematic review planning and reporting (https://www.bmj.com/content/387/bmj-2024-079183)
@@ -30,7 +31,7 @@ a. Table of included studies. <br>
 b. Risk of bias assessment. <br> 
 c. Meta-analyses. <br> 
 d. Summary of findings tables. <br> 
-- **Publication of Updated Results:** The updated results will be published on this platform, along with the updated date of analysis. If updates become unsustainable due to resource constraints, an end date will be noted.
+- **Publication of Updated Results:** The updated results will be published on this platform, along with the updated date of analysis. An end date will be noted if updates become unsustainable due to resource constraints.
 - **Future Automation Plans:** We plan to develop and implement a code that will automate weekly updates of search results, enhancing the efficiency and timeliness of the review process.
 
 
