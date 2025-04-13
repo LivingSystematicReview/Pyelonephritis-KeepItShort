@@ -19,7 +19,7 @@
 - **Last Meta-analysis**: November 2024
 
 ## Publication DOI:
-10.1016/j.cmi.2025.04.008 
+[10.1016/j.cmi.2025.04.008](https://10.1016/j.cmi.2025.04.008) 
 
 ## Living Systematic Review Methods 
 - We follow the **PRISMA recommendations** for living systematic review planning and reporting (https://www.bmj.com/content/387/bmj-2024-079183)
