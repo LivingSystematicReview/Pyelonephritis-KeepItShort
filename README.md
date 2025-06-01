@@ -6,7 +6,7 @@
 
 
 ## Latest Update
-- The Search is $${\color{green}ongoing}$$ 
+- The Search is **ongoing** 🟢
 - **Last Search Dates**:
 
 | Database              | Search Date  | Number of Hits 05/2025 | Toal Number of Hits Since Last Meta-analysis|
