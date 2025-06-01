@@ -6,7 +6,7 @@
 
 
 ## Latest Update
-- The Search is **ongoing** 🟢
+- ![Search status](https://img.shields.io/badge/Search%20status-ongoing-green)
 - **Last Search Dates**:
 
 | Database              | Search Date  | Number of Hits 05/2025 | Toal Number of Hits Since Last Meta-analysis|
