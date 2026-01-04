@@ -11,9 +11,9 @@
 
 | Database              | Search Date  | Number of Hits 12/2025 | Toal Number of Hits Since Last Meta-analysis|
 |-----------------------|--------------|----------------|----------------|
-| PubMed               | 02-11-2025   | 6              | 50             |
-| The Cochrane Library | 02-11-2025   | 0              | 37             |
-| Web of Science       | 02-11-2025   | 0              | 4             |
+| PubMed               | 04-01-2025   | 6              | 50             |
+| The Cochrane Library | 04-01-2025   | 0              | 37             |
+| Web of Science       | 04-01-2025   | 0              | 4             |
 | Other Sources       | 01-09-2025   | 0              | 1             |
 
 - **Next search date**: 01-02-2026
