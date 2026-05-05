@@ -14,7 +14,7 @@
 | PubMed               | 05-05-2026   | 8              | 76             |
 | The Cochrane Library | 05-05-2026   | 8              | 55             |
 | Web of Science       | 05-05-2026   | 0              | 24             |
-| Other Sources       | 05-05-2025   | 1              | 2             |
+| Other Sources       | 05-05-2025   | 0              | 1             |
 
 - **Next search date**: 01-06-2026
 - **Last Meta-analysis**: November 2024
