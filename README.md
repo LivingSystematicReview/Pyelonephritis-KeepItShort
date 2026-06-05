@@ -11,12 +11,12 @@
 
 | Database              | Search Date  | Number of Hits 04/2026 | Toal Number of Hits Since Last Meta-analysis|
 |-----------------------|--------------|----------------|----------------|
-| PubMed               | 05-05-2026   | 8              | 76             |
-| The Cochrane Library | 05-05-2026   | 8              | 55             |
-| Web of Science       | 05-05-2026   | 0              | 24             |
-| Other Sources       | 05-05-2025   | 0              | 1             |
+| PubMed               | 05-06-2026   | 3              | 79             |
+| The Cochrane Library | 05-06-2026   | 2              | 57             |
+| Web of Science       | 05-06-2026   | 3              | 27             |
+| Other Sources       | 05-06-2025   | 0              | 1             |
 
-- **Next search date**: 01-06-2026
+- **Next search date**: 01-07-2026
 - **Last Meta-analysis**: November 2024
 
 ## Publication DOI:
