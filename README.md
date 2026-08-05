@@ -9,14 +9,14 @@
 - ![Search status](https://img.shields.io/badge/Search%20status-ongoing-green)
 - **Last Search Dates**:
 
-| Database              | Search Date  | Number of Hits 07/2026 | Toal Number of Hits Since Last Meta-analysis|
+| Database              | Search Date  | Number of Hits 08/2026 | Toal Number of Hits Since Last Meta-analysis|
 |-----------------------|--------------|----------------|----------------|
-| PubMed               | 02-07-2026   | 19              | 98             |
-| The Cochrane Library | 02-07-2026   | 06              | 63             |
-| Web of Science       | 02-07-2026   | 03              | 30             |
+| PubMed               | 05-08-2026   | 03              | 101             |
+| The Cochrane Library | 05-08-2026   | 05              | 68             |
+| Web of Science       | 05-08-2026   | 03              | 30             |
 | Other Sources       | 05-06-2025   | 0              | 1             |
 
-- **Next search date**: 01-08-2026
+- **Next search date**: 01-09-2026
 - **Last Meta-analysis**: November 2024
 
 ## Publication DOI:
